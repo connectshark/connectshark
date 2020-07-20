@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm NoseGates</h1>
 <h3 align="center">前端工程師</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/connectshark" alt="https://github.com/connectshark" /> </p>
 
 - 📝 I regulary write articles on [https://connectshark.github.io/](https://connectshark.github.io/)
 
