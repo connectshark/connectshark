@@ -1,4 +1,5 @@
 # Hello and Welcome 👋, I'm Chambers!
+![](/readme/cover.png)
 ## I'm a frontend developer,backend learner,travel lover.
 - Personal Site :star: [Nosegates](https://nosegates.com/)
 - Medium :star: [nosegates](https://medium.com/nosegates)
