@@ -4,7 +4,8 @@
 - Personal Site :star: [Nosegates](https://nosegates.com/)
 - Medium :star: [nosegates](https://medium.com/nosegates)
 - My Blog(~Apr 2021) :star: [Blog](https://connectshark.github.io/)
-- 📝Resume :star: [TW](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/%E8%91%89%E6%81%A9%E9%A8%B0resume.pdf)
+- 📝Resume :star: [TW](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/%E8%91%89%E6%81%A9%E9%A8%B0resume.pdf) | [EN](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/en-Chambers.pdf)
+- 方格子 :star: [nosegates](https://vocus.cc/user/@nosegates)
 
 
 ### 🧐 About me
