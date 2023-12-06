@@ -1,5 +1,10 @@
 # Hello and Welcome 👋, I'm Chambers!
 ![](/readme/cover.png)
+
+## I'm a certified Vue.js developer.
+
+- [View my certificate on the certificates.dev](https://certificates.dev/vuejs/certificates/9aae9c9c-1198-4f71-97ff-1973dad68d02).
+
 ## I'm a frontend developer,backend learner,travel lover.
 - Personal Site :star: [Nosegates](https://nosegates.com/)
 - Medium :star: [nosegates](https://medium.com/nosegates)
@@ -9,6 +14,7 @@
 
 
 ### 🧐 About me
-- 💬 Brainstorm with me over tech, algorithms, career, and travel
+- 📜 I'm a certified Vue.js developer.
+- 💬 Brainstorm with me over tech, algorithms, career, and travel.
 - 📚 I'm constantly learning new skills and striving for progress.
-- 💌 Contact me at bobhus394@gmail.com
+- 💌 Contact me at bobhus394@gmail.com.
