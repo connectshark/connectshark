@@ -8,7 +8,7 @@
 ## I'm a frontend developer,backend learner,travel lover.
 - Personal Site :star: [Nosegates](https://nosegates.com/)
 - Medium :star: [nosegates](https://medium.com/nosegates)
-- My Blog(~Apr 2021) :star: [Blog](https://connectshark.github.io/)
+- My Blog(~Apr 2021) :star: [Blog](https://github.com/connectshark/my-blog)
 - 📝Resume :star: [TW](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/tw-Chambers.pdf) | [EN](https://cdn.jsdelivr.net/gh/connectshark/resume@latest/en-Chambers.pdf)
 - 方格子 :star: [nosegates](https://vocus.cc/user/@nosegates)
 
