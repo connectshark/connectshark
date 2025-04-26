@@ -15,5 +15,5 @@
 ### 🧐 About me
 - 📜 I'm a certified Vue.js developer.
 - 💬 Brainstorm with me over tech, algorithms, career, and travel.
-- 📚 I'm constantly learning new skills and striving for progress.
+- 📚 I'm constantly learning **React.js** and new skills for progress.
 - 💌 Contact me at bobhus394@gmail.com.
